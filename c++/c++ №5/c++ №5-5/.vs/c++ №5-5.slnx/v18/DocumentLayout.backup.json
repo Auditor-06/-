@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tigra\\source\\repos\\c\u002B\u002B \u21165-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C98BEF-79C3-4D27-A9F9-79D3E513F86D}|c\u002B\u002B \u21165-5\\c\u002B\u002B \u21165-5.vcxproj|C:\\Users\\tigra\\source\\repos\\c\u002B\u002B \u21165-5\\c\u002B\u002B \u21165-5\\c\u002B\u002B \u21165-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0C98BEF-79C3-4D27-A9F9-79D3E513F86D}|c\u002B\u002B \u21165-5\\c\u002B\u002B \u21165-5.vcxproj|solutionrelative:c\u002B\u002B \u21165-5\\c\u002B\u002B \u21165-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "c\u002B\u002B \u21165-5.cpp",
+              "DocumentMoniker": "C:\\Users\\tigra\\source\\repos\\c\u002B\u002B \u21165-5\\c\u002B\u002B \u21165-5\\c\u002B\u002B \u21165-5.cpp",
+              "RelativeDocumentMoniker": "c\u002B\u002B \u21165-5\\c\u002B\u002B \u21165-5.cpp",
+              "ToolTip": "C:\\Users\\tigra\\source\\repos\\c\u002B\u002B \u21165-5\\c\u002B\u002B \u21165-5\\c\u002B\u002B \u21165-5.cpp",
+              "RelativeToolTip": "c\u002B\u002B \u21165-5\\c\u002B\u002B \u21165-5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-28T21:41:44.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
